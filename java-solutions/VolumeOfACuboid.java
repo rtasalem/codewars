@@ -6,7 +6,7 @@
  * this calculation.
  */
 
-public class Kata {
+public class VolumeOfACuboid {
 
     public static double getVolumeOfCuboid(final double length, final double width, final double height) {
         double result = length * width * height;
