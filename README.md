@@ -1,3 +1,3 @@
 # Codewars
 
-My solutions to [Codewars](https://www.codewars.com/).
+My solutions to challenges on [Codewars](https://www.codewars.com/).
